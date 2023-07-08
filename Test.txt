@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a test file!
+=======
+This is a test file.
+I am adding something!
+>>>>>>> 6f6575339e5166034a6874d8f11fcc990f0b6169

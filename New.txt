@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is new text in notes1 folder!!
+=======
+This is new text file!
+>>>>>>> 6f6575339e5166034a6874d8f11fcc990f0b6169
